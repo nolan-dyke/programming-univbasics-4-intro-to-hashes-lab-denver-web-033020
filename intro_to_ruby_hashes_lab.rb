@@ -2,7 +2,7 @@ def new_hash
   hash = Hash.new 
 end
 
-def my_hash
+def my_hash 
  hash = {:key => "value"}
 end
 
